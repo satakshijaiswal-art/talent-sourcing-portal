@@ -1,0 +1,17 @@
+{
+  "name": "TalentForge",
+  "short_name": "TalentForge",
+  "description": "Source, enrich, and hire in one workflow.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0A0D17",
+  "theme_color": "#4736FE",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
