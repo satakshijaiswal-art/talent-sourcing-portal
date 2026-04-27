@@ -1,6 +1,6 @@
 {
-  "name": "TalentForge",
-  "short_name": "TalentForge",
+  "name": "Hireloom",
+  "short_name": "Hireloom",
   "description": "Source, enrich, and hire in one workflow.",
   "start_url": "./",
   "display": "standalone",
